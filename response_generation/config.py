@@ -1,0 +1,4 @@
+OPENAI_API_KEY = "..."
+CLAUDE_API_KEY = "..."
+GEMINI_API_KEY = "..."
+DEFAULT_GPT_VERSION = "gpt-4-turbo"
