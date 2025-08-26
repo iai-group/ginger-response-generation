@@ -2,6 +2,10 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+This repository provides resources developed within the following article [[PDF](https://arxiv.org/pdf/2503.18174)]:
+
+> W. Łajewska and K. Balog. **GINGER: Grounded Information Nugget-Based Generation of Responses.** In: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25). ACM. Padua, Italy. July 2025. [10.1145/3726302.3730166](https://doi.org/10.1145/3726302.3730166)
+
 ## Summary
 
 We present a modular pipeline for **G**rounded **I**nformation **N**ugget-Based **GE**neration of
@@ -25,6 +29,26 @@ The input passages, generated data, and human scores collected for evaluation ar
 ## Results
 
 Details about the evaluation can be found [here](response_generation/evaluation/README.md).
+
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Lajewska:2025:SIGIR,
+  author = {\L{}ajewska, Weronika and Balog, Krisztian},
+  title = {GINGER: Grounded Information Nugget-Based Generation of Responses},
+  booktitle = {Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year = {2025},
+  pages = {2723--2727},
+  series = {SIGIR '25}
+}
+```
+
+## Contact
+
+Should you have any questions, please contact `Weronika Łajewska` at `weronika.lajewska`[AT]uis.no (with [AT] replaced by @).
+
 
 [^1]: Virgil Pavlu, Shahzad Rajput, Peter B. Golbus, and Javed A. Aslam. 2012. IR system evaluation using nugget-based test collections. In WSDM ’12.
 
