@@ -40,6 +40,7 @@ If you use the resources presented in this repository, please cite:
   title = {GINGER: Grounded Information Nugget-Based Generation of Responses},
   booktitle = {Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   year = {2025},
+  doi = {10.1145/3726302.3730166},
   pages = {2723--2727},
   series = {SIGIR '25}
 }
